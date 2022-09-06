@@ -1,6 +1,7 @@
 # gh-pages
 
 npx instal create-react-app my-app
+
 cd my-app
 npm install gh-pages --save-dev
 //w  pliku package.json dodaj
